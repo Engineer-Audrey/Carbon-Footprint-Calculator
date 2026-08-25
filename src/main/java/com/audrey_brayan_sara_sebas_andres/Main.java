@@ -3,6 +3,8 @@ package com.audrey_brayan_sara_sebas_andres;
 import java.util.Scanner;
 import com.audrey_brayan_sara_sebas_andres.Models.*;
 
+//Proyecto terminado
+
 public class Main {
 
     public static void main(String[] args) {
